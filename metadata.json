@@ -1,0 +1,6 @@
+{
+  "name": "EliteCommerce",
+  "description": "A full-stack e-commerce platform featuring product management, secure cart, order tracking, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
